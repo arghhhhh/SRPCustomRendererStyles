@@ -1,7 +1,7 @@
 Special Renderers
 ====================
 
-Just some special renderer styles I've created for Unity projects
+Just some custom renderer styles I've created for SRP Unity projects
 * Depth
 * Luma Matte
 * Plain
